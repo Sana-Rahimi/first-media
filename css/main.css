@@ -2,6 +2,7 @@
 @import "./desktop/desktop.css" only screen and (min-width:1000px);
 body{
     position: relative;
+    overflow-x:hidden;
 }
 *{
     margin:0;
