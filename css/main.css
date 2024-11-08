@@ -4,6 +4,9 @@ body{
     position: relative;
     overflow-x:hidden !important;
 }
+html{
+    overflow-x: hidden;
+}
 *{
     margin:0;
     padding:0;
