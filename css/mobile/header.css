@@ -29,6 +29,7 @@
     top:140px;
     left:20px;
     cursor: pointer;
+    overflow-x: hidden;
     .line{
         width:25px;
         height: 3px;
@@ -47,6 +48,7 @@
     position:absolute;
     z-index: 100;
     left:100%;
+    overflow-x: hidden;
     nav{
         display:flex;
         flex-flow: column;
